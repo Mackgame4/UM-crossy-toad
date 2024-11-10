@@ -1,4 +1,6 @@
 # Crossy Toad
+_🗂️ Course project for UM for LI1 in 2022/23_
+
 <p align="center"><img src="src/assets/crossytoad.png" alt="Crossy Toad" width="200"/></p>
 
 ### <p align="center">[Installation](/INSTALLATION.md#build) | [TODO List](/TODO.md)</p>
